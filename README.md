@@ -52,5 +52,5 @@ Steps-
 5. Dont forgot to add your name in below list of Contributors, dont forgot to add an emoji😉😜.
 
 # Contributors-
-* [Ashutosh7i ](https://ashutosh7i.github.io)
-* [your_Name_here](https://any_link_here)
+* [Ashutosh7i](https://ashutosh7i.github.io) 😁
+* [your_Name_here](https://any_link_here) 😁
