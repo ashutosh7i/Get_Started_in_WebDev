@@ -9,6 +9,15 @@ So Firstly start with the Absolute basics such as
 This usually takes about 2-4 weeks depending on time you are dedicating to it.
 ( 1/2 / 1 ) hour a day will easily get the job done.
 
+* Start with HTML.
+* Then do CSS.
+* Then Basics of JavaScript.
+* Make some Projects, then move to a framework.
+
+(you don't need to pro at everything, but should know everything, or say-
+
+Jack of all trades, and a Senpai of none😂.
+
 ## Now the resources to learn:-
 You can use Documentations and videos for this purpose.
 
