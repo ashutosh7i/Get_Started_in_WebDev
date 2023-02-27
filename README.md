@@ -25,6 +25,7 @@ You can use Documentations and videos for this purpose.
 1. w3schools.com- https://www.w3schools.com/html [Best]
 2. html.com-      https://html.com/              [official]
 3. programiz.com- https://www.programiz.com/html [Beginner Friendly]
+4. MDN Web Docs- https://developer.mozilla.org
 
 ### Youtube Playlist for HTML:-
 1. CodeWithHarry- https://www.youtube.com/watch?v=BsDoLVMnmZs [Best][Hindi][3+ Hour]
@@ -32,7 +33,7 @@ You can use Documentations and videos for this purpose.
 3. Name- link 
 
 ### Documentation for CSS:-
-1. Name- link 
+1.  MDN Web Docs- https://developer.mozilla.org 
 2. 
 3. 
 
@@ -44,13 +45,13 @@ You can use Documentations and videos for this purpose.
 ### Documentation for JavaScript:-
 1. w3schools- https://www.w3schools.com/js/ [Best]
 2. Mozilla- https://developer.mozilla.org/en-US/docs/Web/JavaScript [Official]
-3. Name- link 
+3.  MDN Web Docs- https://developer.mozilla.org
 
 ### Youtube Playlist for JavaScript:-
 1. CodeWithHarry- https://www.youtube.com/watch?v=hKB-YGF14SY [Basics][Hindi]
 2. CodeWithHarry- https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR [Advance][Hindi]
 3. FreeCodeCamp- https://www.youtube.com/watch?v=PkZNo7MFNFg [3 hour][Intermidate]
-4. Name- link 
+4.  
 
 # Contribution-
 this is repo is open for contribuition. If you found some good resources and thing that they will provide some value to others, You can share them in this repository.
@@ -63,4 +64,4 @@ Steps-
 
 # Contributors-
 * [Ashutosh7i](https://ashutosh7i.github.io) 😁
-* [your_Name_here](https://any_link_here) 😁
+* [Aditya Paliwal](https://github.com/AdityaPaliwal1) 😁
